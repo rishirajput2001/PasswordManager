@@ -1,5 +1,4 @@
-# PasswordManager
-
+#  Password Manager – SwiftUI
 
 ### About:-
 A secure, local-first password manager app built using SwiftUI and MVVM, with 
